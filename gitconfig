@@ -48,4 +48,9 @@
   mergeoptions = --no-edit
 [user]
 	email = vinicius.ishizaki@gmail.com
-	name = Vinicius Ishizaki
+	name = vinicius ishizaki
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
