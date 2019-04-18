@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
 	"bootstrapped": true,
 	"in_process_packages":
 	[
@@ -18,4 +19,20 @@
 		"SublimeLinter",
 		"SublimeLinter-rubocop"
 	]
+=======
+  "installed_packages":
+  [
+    "AdvancedNewFile",
+    "All Autocomplete",
+    "Babel",
+    "Emmet",
+    "ERB Snippets",
+    "Git",
+    "GitGutter",
+    "Package Control",
+    "SCSS",
+    "SublimeLinter",
+    "SublimeLinter-rubocop"
+  ]
+>>>>>>> 1d187d3a1fecf1cce8954af3841bf9d045ae21a7
 }
